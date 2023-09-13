@@ -1,0 +1,11 @@
+id,nome,tipo_conta,Desconto
+1,Andre,ouro,Desconto de 35%
+2,Bruna,bronze,Desconto de 10%
+3,Carlos,prata,Desconto de 20%
+4,Diana,prata,Desconto de 20%
+5,Elias,diamante,Desconto de 50%
+6,Fabiana,ouro,Desconto de 35%
+7,Gabriel,ouro,Desconto de 35%
+8,Hanna,diamante,Desconto de 50%
+9,Igor,bronze,Desconto de 10%
+10,Joana,bronze ,Desconto de 10%
